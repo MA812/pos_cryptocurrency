@@ -26,8 +26,10 @@ Please note, however, that this code can be adjusted according to your needs/exp
 Translated with DeepL.com (free version) not my language xoxo
 ## Acknowledgements
 
- - [@octokatherine for readme.so](https://www.github.com/octokatherine)
+- [@octokatherine for readme.so](https://www.github.com/octokatherine)
 - [DeepL.com](https://www.deepl.com/)
+- [Bitcoin](https://bitcoin.org/)
+- [Monero](https://www.getmonero.org/)
 
 ## Badges
 
